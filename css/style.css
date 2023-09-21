@@ -14,6 +14,10 @@ li {
     color: whitesmoke;
 }
 
+li:hover {
+    background-color: #F6AA1C;
+}
+
 ul {
     display: flex;
 }
